@@ -1,0 +1,330 @@
+The 1 waypoint :
+Position:
+  x = 3.062
+  y = 0.0844936
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = -0.0934629
+  w = 0.995623
+--------------------------
+The 2 waypoint :
+Position:
+  x = 8.20569
+  y = -0.0173352
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0.72611
+  w = 0.687579
+--------------------------
+The 3 waypoint :
+Position:
+  x = 8.56941
+  y = 2.69631
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0.671255
+  w = 0.741226
+--------------------------
+The 4 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 5 waypoint :
+Position:
+  x = 0
+  y = 4.05578e-320
+  z = 4.04685e-86
+Orientation:
+  x = 4.31916e-38
+  y = 4.47594e-91
+  z = 3.29505e-318
+  w = 0
+--------------------------
+The 6 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 7 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 8 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 9 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 10 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 11 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 12 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 13 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 14 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 15 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 16 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 17 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 18 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 19 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 20 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 21 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 22 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 23 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 24 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 25 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 26 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 27 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 28 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 29 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------
+The 30 waypoint :
+Position:
+  x = 0
+  y = 0
+  z = 0
+Orientation:
+  x = 0
+  y = 0
+  z = 0
+  w = 0
+--------------------------

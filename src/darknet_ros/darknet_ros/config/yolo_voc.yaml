@@ -1,0 +1,46 @@
+yolo_model:
+
+  config_file:
+    name: yolo-voc-me.cfg
+  weight_file:
+    name: yolo-voc_6400.weights
+  threshold:
+    value: 0.2
+  detection_classes:
+    names:
+      - apple
+      - tumbler
+      - trash_box_for_recycle
+      - trash_box_for_burnable
+      - trash_box_for_bottle_can
+      - bear_doll
+      - dog_doll
+      - filled_ketchup
+      - soysauce
+      - toy_penguin
+      - rabbit_doll
+      - canned_juice
+      - pink_cup
+      - sauce
+      - sugar
+      - avatar
+      - camera
+      - cigarette
+      - cubic_clock
+      - empty_ketchup
+      - empty_plastic_bottle
+      - hourglass
+      - nursing_bottle
+      - white_cup
+      - toy_car
+      - filled_plastic_bottle
+      - rubik's_cube
+      - toy_duck
+      - ground_pepper
+      - salt
+    
+
+
+
+
+

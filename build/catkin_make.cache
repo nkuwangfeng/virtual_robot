@@ -1,0 +1,2 @@
+darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:darknet_ros/pcl_rviz:darknet_ros/sigverse_open_manipulator:handyman-ros:sigverse_ros_package/sigverse_open_test:sigverse_ros_package/sigverse_ros_bridge
+-DCATKIN_DEVEL_PREFIX=/home/xdf/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xdf/catkin_ws/install -G Unix Makefiles
